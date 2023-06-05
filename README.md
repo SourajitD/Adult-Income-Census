@@ -14,10 +14,10 @@ The Dataset Contains:
 ## Conclusion:
 - Male have higher avg. capital gain of $1,348.52
 - Male have higher avg. working hours-per-week at 42.87
-- There are 14783 (32.69% of toal) individuals with educational qualification as ‘HS-Grad’.
+- There are 14783 (32.69% of total) individuals with educational qualification as "HS-Grad".
 - 6008 individuals (13.29% of total) are working as "Prof-specialty".
 - "Married-AF-spouse" have highest avg. capital gain with $3,353.03
-- Asian-Pac-Islander have highest avg. per capital gain (Avg) at $1,409.74
+- "Asian-Pac-Islander" have highest avg. capital gain at $1,409.74
 - 11,208 individuals have an income over $50,000/yr of which 9,539 are male & 1,669 are female.
 
 ## Dataset Source:

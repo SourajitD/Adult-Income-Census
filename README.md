@@ -20,4 +20,5 @@ The Dataset Contains:
 - Asian-Pac-Islander have highest avg. per capital gain (Avg) at $1,409.74
 - 11,208 individuals have an income over $50,000/yr of which 9,539 are male & 1,669 are female.
 
-## Dataset Source: https://archive.ics.uci.edu/ml/datasets/Adult
+## Dataset Source:
+https://archive.ics.uci.edu/ml/datasets/Adult
